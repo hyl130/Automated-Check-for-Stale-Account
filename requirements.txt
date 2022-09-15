@@ -1,0 +1,7 @@
+pandas
+selenium
+slack-sdk
+--index-url= --extra-index-url https://__token__:<token>gitlab.com/api/v4/projects/28275991/packages/pypi/simple
+confluence-client
+--index-url= --extra-index-url https://__token__:<token>@gitlab.com/api/v4/projects/28275991/packages/pypi/simple
+dynamics

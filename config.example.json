@@ -1,0 +1,19 @@
+{
+    "dynamics": {
+      "username": "username",
+      "password": "password",
+      "host": "dynamics.sdsc.edu",
+      "org_name": "sandiegosupercomputercenter"
+    },
+    "blink_url": "PLACEHOLDER",
+    "file_link": "PLACEHOLDER",
+    "slack_url": "PLACEHOLDER",
+    "confluence": {
+      "username":"FILLOUT",
+      "password": "FILLOUT",
+      "token": "FILLOUT",
+      "url":  "FILLOUT",
+      "space_id": "FILLOUT"
+    }
+  }
+  
